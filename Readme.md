@@ -6,7 +6,7 @@
 
 ## | 타임레터 :: 당신의 추억을 간직해드립니다. 미래의 당신과 소통하는 길. 타임레터⏱
 > 메인페이지
-<img width="30%" src="/docs/assets/타임레터홈화면.gif" alt="mainpage" />
+<img width="40%" src="/docs/assets/타임레터홈화면.gif" alt="mainpage" />
 
 
 > [레터 생성 페이지](Readme.assets/레터생성.gif)
