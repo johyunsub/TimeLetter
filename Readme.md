@@ -6,7 +6,7 @@
 
 ## | 타임레터 :: 당신의 추억을 간직해드립니다. 미래의 당신과 소통하는 길. 타임레터⏱
 > 메인페이지
-<img width="40%" src="/docs/assets/타임레터홈화면.gif" alt="mainpage" />
+<img width="30%" src="/docs/assets/타임레터홈화면.gif" alt="mainpage" />
 
 
 > [레터 생성 페이지](Readme.assets/레터생성.gif)
@@ -94,38 +94,37 @@
 ## 🔧 Architecture
 
 **Entitiy Relationship Diagram**
-
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F21e51bed-8de9-46a4-a7c4-f278352e09f7%2FPJT_20210512_30_32.png?table=block&id=90f8629a-e566-457e-a83a-6b0b877eaa09&spaceId=1054213e-5131-43e9-b111-6fa0fef4ef77&width=3070&userId=07f12d2f-890c-4ab6-8cbb-953665ee5e6d&cache=v2)
+![erd](docs/assets/timeletter_erd.png)
 
 **Sequence Diagrams**
 
 - 로그인
 
-![erd](docs/assets/Sequence_로그인.png)
+![login](docs/assets/Sequence_로그인.png)
 
 
 
 - 회원가입
 
-![erd](docs/assets/Sequence_회원가입.png)
+![user](docs/assets/Sequence_회원가입.png)
 
 
 
 - ID/PW 찾기
 
-![erd](docs/assets/Sequence_ID,비밀번호찾기.png)
+![idpw](docs/assets/Sequence_ID,비밀번호찾기.png)
 
 
 
-- 캡슐생성 및 조회
+- 레터생성 및 조회
 
-![erd](docs/assets/Sequence_캡슐생성 및 조회.png)
+![letter_create](docs/assets/Sequence_캡슐생성 및 조회.png)
 
 
 
 - 그룹관리
 
-![erd](docs/assets/Sequence_그룹관리.png)
+![club](docs/assets/Sequence_그룹관리.png)
 
 ## 📦 Packages (M)
 
